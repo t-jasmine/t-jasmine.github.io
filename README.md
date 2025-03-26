@@ -1,3 +1,7 @@
+# Jasmine Tran | Blog
+
+Hello, this is my blog! I made it using Jekyll Theme Serial Programmer, which you can read more about below.
+
 # Jekyll Theme Serial Programmer
 
 > A Jekyll theme for serial programmers (-.-)
