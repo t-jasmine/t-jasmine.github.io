@@ -3,8 +3,8 @@ markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Jasmine Tran
+  email: jasminetran227@gmail.com
 
 plugins:
   - jemoji
