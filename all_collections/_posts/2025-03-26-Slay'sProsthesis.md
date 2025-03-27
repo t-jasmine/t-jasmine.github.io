@@ -5,7 +5,7 @@ date: 2025-03-26
 categories: [Dog Prosthetic]
 ---
 
-![A cute picture of Slay!](https://drive.google.com/uc?export=view&id=1_ducvp_C2K3RUo-04_iZEj8bPuwfQBJU)
+![A cute picture of Slay!](https://drive.google.com/thumbnail?id=1_ducvp_C2K3RUo-04_iZEj8bPuwfQBJU)
 
 Slay was recently involved in a hit-and-run accident, where she lost her front left leg. Recovering is a physically and financially difficult journey.
 
@@ -17,7 +17,7 @@ I do acknowledge that many dogs are able to function well with just 3 legs, but 
 
 ## Design
 
-![Sketch of Slay's Prosthesis](https://drive.google.com/uc?export=view&id=1xXluklFklt6wONoh9c-OJmyR0jfo-H6B)
+![Sketch of Slay's Prosthesis](https://drive.google.com/thumbnail?id=1xXluklFklt6wONoh9c-OJmyR0jfo-H6B)
 
 Here is the initial sketch for Slay's full-limb prosthesis. I wanted to mimic a design similar to [3D Pets](https://www.3dpetsprosthetics.com/), with a lattice-type chest support. It would help us maximize the amount of filament that we use to print the chest support and lessen weight. I also do robotics, and we do pocketing for gussets to reduce weight for our robot, which is similar to this. It should be flexible and comfortable enough for Slay to wear, so a material like TPU would be good.
 
@@ -31,7 +31,7 @@ For the foot, it needs to be able to compress and absorb impact and shock while 
 
 We are still currently making a 3D model of Slay's prosthesis, but this is the progress we have made so far. It's made in Blender given the ability to sculpt and create organic shapes, abundance of community help and support, and free price point. I'm only a beginner in using Blender, so any suggestions or help would be much appreciated.
 
-![3D Mockup of Slay's Prosthesis 1](https://drive.google.com/uc?export=view&id=1XkQt3uJ3ETGC0fbxPrL1eV1BU_XwDqfl)
-![3D Mockup of Slay's Prosthesis 1](https://drive.google.com/uc?export=view&id=1KXjGjJhgQsh6NTrMlXvCeKVzO3zyq-Xv)
+![3D Mockup of Slay's Prosthesis 1](https://drive.google.com/thumbnail?id=1XkQt3uJ3ETGC0fbxPrL1eV1BU_XwDqfl)
+![3D Mockup of Slay's Prosthesis 1](https://drive.google.com/thumbnail?id=1KXjGjJhgQsh6NTrMlXvCeKVzO3zyq-Xv)
 
 We are about to start building it once we finish up the 3D model. Please donate to [Slay's GoFundMe](https://www.gofundme.com/f/donate-to-help-brave-dogs-walk-again?qid=77884ab2f74ea37fba78038e259af30d) if you can! :3
