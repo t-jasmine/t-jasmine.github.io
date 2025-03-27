@@ -5,6 +5,8 @@ date: 2025-03-26
 categories: [Dog Prosthetic]
 ---
 
+![A cute picture of Slay!](https://drive.google.com/uc?export=view&id=1_ducvp_C2K3RUo-04_iZEj8bPuwfQBJU)
+
 Slay was recently involved in a hit-and-run accident, where she lost her front left leg. Recovering is a physically and financially difficult journey.
 
 I stumbled upon [Slay's GoFundMe page](https://www.gofundme.com/f/donate-to-help-brave-dogs-walk-again?qid=77884ab2f74ea37fba78038e259af30d) and was moved. They are far from reaching their fundraising goal. Though I don't have much money to help contribute, I realized I could help in another way. I grabbed a few of my friends and began to work on designing a prosthetic limb for Slay.
@@ -13,11 +15,9 @@ One of my goals in life is to make technology cheaper and more accessible to peo
 
 I do acknowledge that many dogs are able to function well with just 3 legs, but with Slay having her leg amputated from trauma/injury and then later meeting up and seeing her struggle to walk and constantly stopping to sit down, I believe that a prosthetic limb could help strengthen her mobility. This limb shouldn't be something she depends on and should only be used in the circumstances that she walk far distances rather than playing around.
 
-![A cute picture of Slay!](https://drive.google.com/file/d/1_ducvp_C2K3RUo-04_iZEj8bPuwfQBJU/view)
-
 ## Design
 
-![Sketch of Slay's Prosthesis](https://drive.google.com/file/d/1xXluklFklt6wONoh9c-OJmyR0jfo-H6B/view)
+![Sketch of Slay's Prosthesis](https://drive.google.com/uc?export=view&id=1xXluklFklt6wONoh9c-OJmyR0jfo-H6B)
 
 Here is the initial sketch for Slay's full-limb prosthesis. I wanted to mimic a design similar to [3D Pets](https://www.3dpetsprosthetics.com/), with a lattice-type chest support. It would help us maximize the amount of filament that we use to print the chest support and lessen weight. I also do robotics, and we do pocketing for gussets to reduce weight for our robot, which is similar to this. It should be flexible and comfortable enough for Slay to wear, so a material like TPU would be good.
 
@@ -31,7 +31,7 @@ For the foot, it needs to be able to compress and absorb impact and shock while 
 
 We are still currently making a 3D model of Slay's prosthesis, but this is the progress we have made so far. It's made in Blender given the ability to sculpt and create organic shapes, abundance of community help and support, and free price point. I'm only a beginner in using Blender, so any suggestions or help would be much appreciated.
 
-![3D Mockup of Slay's Prosthesis 1](https://drive.google.com/file/d/1XkQt3uJ3ETGC0fbxPrL1eV1BU_XwDqfl/view)
-![3D Mockup of Slay's Prosthesis 1](https://drive.google.com/file/d/1KXjGjJhgQsh6NTrMlXvCeKVzO3zyq-Xv/view)
+![3D Mockup of Slay's Prosthesis 1](https://drive.google.com/uc?export=view&id=1XkQt3uJ3ETGC0fbxPrL1eV1BU_XwDqfl)
+![3D Mockup of Slay's Prosthesis 1](https://drive.google.com/uc?export=view&id=1KXjGjJhgQsh6NTrMlXvCeKVzO3zyq-Xv)
 
 We are about to start building it once we finish up the 3D model. Please donate to [Slay's GoFundMe](https://www.gofundme.com/f/donate-to-help-brave-dogs-walk-again?qid=77884ab2f74ea37fba78038e259af30d) if you can! :3
