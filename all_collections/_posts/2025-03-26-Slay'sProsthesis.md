@@ -7,7 +7,7 @@ categories: [Dog Prosthetic]
 
 ![A cute picture of Slay!](https://drive.google.com/thumbnail?id=1_ducvp_C2K3RUo-04_iZEj8bPuwfQBJU)
 
-Slay was recently involved in a hit-and-run accident, where she lost her front left leg. Recovering is a physically and financially difficult journey.
+Slay was involved in a hit-and-run accident, where she lost her front left leg. Recovering is a physically and financially difficult journey.
 
 I stumbled upon [Slay's GoFundMe page](https://www.gofundme.com/f/donate-to-help-brave-dogs-walk-again?qid=77884ab2f74ea37fba78038e259af30d) and was moved. They are far from reaching their fundraising goal. Though I don't have much money to help contribute, I realized I could help in another way. I grabbed a few of my friends and began to work on designing a prosthetic limb for Slay.
 
@@ -32,6 +32,6 @@ For the foot, it needs to be able to compress and absorb impact and shock while 
 We are still currently making a 3D model of Slay's prosthesis, but this is the progress we have made so far. It's made in Blender given the ability to sculpt and create organic shapes, abundance of community help and support, and free price point. I'm only a beginner in using Blender, so any suggestions or help would be much appreciated.
 
 ![3D Mockup of Slay's Prosthesis 1](https://drive.google.com/thumbnail?id=1XkQt3uJ3ETGC0fbxPrL1eV1BU_XwDqfl)
-![3D Mockup of Slay's Prosthesis 1](https://drive.google.com/thumbnail?id=1KXjGjJhgQsh6NTrMlXvCeKVzO3zyq-Xv)
+![3D Mockup of Slay's Prosthesis 2](https://drive.google.com/thumbnail?id=1KXjGjJhgQsh6NTrMlXvCeKVzO3zyq-Xv)
 
 We are about to start building it once we finish up the 3D model. Please donate to [Slay's GoFundMe](https://www.gofundme.com/f/donate-to-help-brave-dogs-walk-again?qid=77884ab2f74ea37fba78038e259af30d) if you can! :3
